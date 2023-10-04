@@ -22,7 +22,7 @@ The goals of this assignment are:
 * To make some basic corpus-level visualizations.
 
 Here are the steps you should do to successfully complete this project:
-1. From moodle, accept the assignment. Open and set up a code space (install a python kernal and select it).
+1. From moodle, accept the assignment. Open and set up a code space (install a python kernel and select it).
 2. Complete the notebook and commit it to Github. Make sure to answer all questions, and to commit the notebook in a "run" state!
 3. I wrote the comments; you write the code! Complete and run `spacy_on_corpus.py` following the instructions in this notebook.
 4. Edit the README.md file. Provide your name, your class year, links to/descriptions of any extensions and a list of resources. 
