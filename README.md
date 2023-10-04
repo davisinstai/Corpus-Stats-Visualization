@@ -31,7 +31,7 @@ Here are the steps you should do to successfully complete this project:
 Possible extensions (from least points to most points):
 * Make word counts plots for the top 100 words and entities. Look at the labels on the y axis of each plot. Where do you think spaCy is making mistakes?
 * Augment the `wordcount` functionality so that it displays relative frequencies of entity label pairs and token part of speech pairs.
-* Learn about the useful python collections package, especially the [Counter data type](https://docs.python.org/3/library/collections.html#collections.Counter). Copy spacy_on_corpus.py and name the copy spacy_on_corpus-counter.py. Change `get_token_counts` and `get_entity_counts` to use counters. 
+* Learn about the useful python collections package, especially the [Counter data type](https://docs.python.org/3/library/collections.html#collections.Counter). Copy spacy_on_corpus.py and name the copy spacy_on_corpus_counter.py. Change `get_token_counts` and `get_entity_counts` to use counters. 
 * Add in the analyses from project 2c as functions `make_doc_markdown`, `make_doc_tables` and `make_doc_stats`; make sure to ask the user for a document before running any of these!
 * Your other ideas are welcome! If you'd like to discuss one with Dr Stent, feel free.
 
@@ -39,7 +39,7 @@ Possible extensions (from least points to most points):
 
 - [] Notebook is code-complete. (3 points)
 - [] All ten questions in notebook are completely and correctly answered. (10 points)
-- [] File spacy-on-files.py is complete, runs and is commented. (10 points)
+- [] File spacy_on_corpus.py is complete, runs and is commented. (10 points)
 - [] Readme has student's name, class year and resources student used. (2 points)
 - [] Extension (1-2 points for a start; 3-4 points for a complete extension; 5 points for a surprising and creative extension)
 
